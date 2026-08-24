@@ -40,6 +40,17 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
 
 </span>
 
+
+## Proyectos
+
+### Lista de tareas
+
+Aplicación móvil desarrollada con Flutter para gestionar tareas. Permite crear, editar, marcar como completadas y eliminar tareas mediante una interfaz sencilla.
+
+**Tecnologías:** Flutter · Dart
+
+[Ver repositorio](https://github.com/EdwarNolasco/ProyectoFlutter)
+
 ## Redes de Contacto
 
 <a href="https://www.linkedin.com/in/edwar-nolasco-275036321/">
