@@ -46,6 +46,25 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
 <table>
   <tr>
     <td width="65%">
+      <h3>Observatorio Tecnológico - Backend API</h3>
+      <p>API REST para un observatorio tecnológico regional. Permite gestionar y analizar empresas, productos y servicios, eventos sectoriales, indicadores económicos y tendencias tecnológicas de Centroamérica.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize">
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <p><b>Backend y API REST</b></p>
+      <a href="https://github.com/EdwarNolasco/BackendObservatorio">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="65%">
       <h3>Lista de tareas</h3>
       <p>Aplicación móvil para organizar tareas de forma simple y rápida. Permite crear, editar, completar y eliminar tareas desde una interfaz clara.</p>
       <p>
