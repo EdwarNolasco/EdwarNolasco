@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola , Soy Edwar Nolasco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-&nbsp;***Sobre mí***
+***Sobre mí***
 
 Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, bases de datos, APIs RESTful, desarrollo frontend y administración de servidores Linux. Experiencia trabajando con PHP, Laravel, React, TypeScript, PostgreSQL y entornos virtualizados. Destaco por mi capacidad de análisis y resolución de problemas, aprendizaje continuo y adaptación a diferentes tecnologías y entornos de trabajo.
 
@@ -40,8 +40,8 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
 
 ## Redes de Contacto
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.linkedin.com/in/edwar-nolasco-275036321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:josedediaz99@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
