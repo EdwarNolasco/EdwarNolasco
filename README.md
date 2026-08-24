@@ -60,6 +60,24 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="65%">
+      <h3>Chatbot RAG Educativo</h3>
+      <p>Chatbot educativo con inteligencia artificial que responde preguntas sobre materiales de cursos, sincroniza contenido de Moodle y ofrece entrada y salida de voz accesible.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+        <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone">
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <p><b>Aplicacion web educativa</b></p>
+      <a href="https://github.com/EdwarNolasco/ChatbotEducativo">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
+      </a>
+    </td>
+  </tr>
 </table>
 
 
