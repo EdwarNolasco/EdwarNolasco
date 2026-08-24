@@ -43,13 +43,21 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
 
 ## Proyectos
 
-### Lista de tareas
+<table>
+  <tr>
+    <td width="70%">
+      <h3>Lista de tareas</h3>
+      <p>Aplicación móvil desarrollada con Flutter para gestionar tareas. Permite crear, editar, marcar como completadas y eliminar tareas mediante una interfaz sencilla.</p>
+      <p><b>Tecnologías:</b> Flutter · Dart</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/Aplicación%20móvil-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Aplicación móvil con Flutter">
+      <br><br>
+      <a href="https://github.com/EdwarNolasco/ProyectoFlutter">Ver repositorio →</a>
+    </td>
+  </tr>
+</table>
 
-Aplicación móvil desarrollada con Flutter para gestionar tareas. Permite crear, editar, marcar como completadas y eliminar tareas mediante una interfaz sencilla.
-
-**Tecnologías:** Flutter · Dart
-
-[Ver repositorio](https://github.com/EdwarNolasco/ProyectoFlutter)
 
 ## Redes de Contacto
 
