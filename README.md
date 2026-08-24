@@ -43,6 +43,6 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
 <a href="https://www.linkedin.com/in/edwar-nolasco-275036321/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:josedediaz99@gmail.com" >
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=josedediaz99@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
