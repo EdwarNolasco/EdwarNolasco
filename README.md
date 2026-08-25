@@ -2,7 +2,7 @@
 
 ***Sobre mí***
 
-Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, bases de datos, APIs RESTful, desarrollo frontend y administración de servidores Linux. Experiencia trabajando con PHP, Laravel, React, TypeScript, PostgreSQL y entornos virtualizados, entre otros. Destaco por mi capacidad de análisis y resolución de problemas, aprendizaje continuo y adaptación a diferentes tecnologías y entornos de trabajo.
+Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, bases de datos, APIs RESTful, desarrollo frontend y administración de servidores Linux. Experiencia trabajando con PHP, Laravel, React, TypeScript, PostgreSQL, entornos virtualizados, entre otros. Destaco por mi capacidad de análisis y resolución de problemas, aprendizaje continuo y adaptación a diferentes tecnologías y entornos de trabajo.
 
 
 ## Mis habilidades
