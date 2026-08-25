@@ -45,11 +45,15 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
 
 Práctica Profesional - Desarrollo y administración de sistemas institucionales:
 
-•	Diseño y optimización de bases de datos relacionales, garantizando integridad, rendimiento y escalabilidad.
-•	Desarrollo y refactorización de Backend y APIs RESTful con PHP y Laravel, implementando lógica de negocio, autenticación y autorización.
-•	Desarrollo de interfaces web con React, TypeScript, Vite y Tailwind CSS.
-•	Administración de servidores y entornos virtualizados Linux, incluyendo configuración y gestión de Nginx y certificados SSL/TLS.
-•	Implementación, configuración y personalización de plataformas institucionales como Koha y DSpace, además de pruebas funcionales y resolución de problemas de despliegue.
+- **Bases de datos:** Diseño y optimización de bases de datos relacionales, garantizando integridad, rendimiento y escalabilidad.
+
+- **Backend y APIs:** Desarrollo y refactorización de aplicaciones backend y APIs RESTful con **PHP y Laravel**, implementando lógica de negocio, autenticación y autorización.
+
+- **Frontend:** Desarrollo de interfaces web con **React, TypeScript, Vite y Tailwind CSS**.
+
+- **Servidores:** Administración de servidores y entornos virtualizados **Linux**, incluyendo configuración y gestión de **Nginx** y certificados **SSL/TLS**.
+
+- **Plataformas institucionales:** Implementación, configuración y personalización de **Koha y DSpace**, además de pruebas funcionales y resolución de problemas de despliegue.
 
 <table>
   <tr>
