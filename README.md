@@ -43,19 +43,36 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
 
 ## Proyectos
 
-Práctica Profesional - Desarrollo y administración de sistemas institucionales:
-
-- **Bases de datos:** Diseño y optimización de bases de datos relacionales, garantizando integridad, rendimiento y escalabilidad.
-
-- **Backend y APIs:** Desarrollo y refactorización de aplicaciones backend y APIs RESTful con **PHP y Laravel**, implementando lógica de negocio, autenticación y autorización.
-
-- **Frontend:** Desarrollo de interfaces web con **React, TypeScript, Vite y Tailwind CSS**.
-
-- **Servidores:** Administración de servidores y entornos virtualizados **Linux**, incluyendo configuración y gestión de **Nginx** y certificados **SSL/TLS**.
-
-- **Plataformas institucionales:** Implementación, configuración y personalización de **Koha y DSpace**, además de pruebas funcionales y resolución de problemas de despliegue.
-
 <table>
+  <tr>
+    <td width="65%">
+      <h3>Práctica Profesional - Desarrollo y administración de sistemas institucionales</h3>
+      <ul>
+        <li><b>Bases de datos:</b> Diseño y optimización de bases de datos relacionales, garantizando integridad, rendimiento y escalabilidad.</li>
+        <li><b>Backend y APIs:</b> Desarrollo y refactorización de aplicaciones backend y APIs RESTful con <b>PHP y Laravel</b>, implementando lógica de negocio, autenticación y autorización.</li>
+        <li><b>Frontend:</b> Desarrollo de interfaces web con <b>React, TypeScript, Vite y Tailwind CSS</b>.</li>
+        <li><b>Servidores:</b> Administración de servidores y entornos virtualizados <b>Linux</b>, incluyendo configuración y gestión de <b>Nginx</b> y certificados <b>SSL/TLS</b>.</li>
+        <li><b>Plataformas institucionales:</b> Implementación, configuración y personalización de <b>Koha y DSpace</b>, además de pruebas funcionales y resolución de problemas de despliegue.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+        <img src="https://img.shields.io/badge/SSL%2FTLS-721412?style=flat-square&logo=letsencrypt&logoColor=white" alt="SSL/TLS">
+        <img src="https://img.shields.io/badge/Koha-1D4F91?style=flat-square&logoColor=white" alt="Koha">
+        <img src="https://img.shields.io/badge/DSpace-005A9C?style=flat-square&logoColor=white" alt="DSpace">
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <p><b>Práctica profesional</b></p>
+    </td>
+  </tr>
   <tr>
     <td width="65%">
       <h3>API de Gestión para Pulpería Wendy</h3>
@@ -165,21 +182,6 @@ Práctica Profesional - Desarrollo y administración de sistemas institucionales
       <a href="https://github.com/EdwarNolasco/ProyectoFlutter">
         <img src="https://img.shields.io/badge/Ver%20repositorio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="65%">
-      <h3>Práctica Profesional - Desarrollo y administración de sistemas institucionales</h3>
-      <ul>
-        <li><b>Bases de datos:</b> Diseño y optimización de bases de datos relacionales, garantizando integridad, rendimiento y escalabilidad.</li>
-        <li><b>Backend y APIs:</b> Desarrollo y refactorización de aplicaciones backend y APIs RESTful con <b>PHP y Laravel</b>, implementando lógica de negocio, autenticación y autorización.</li>
-        <li><b>Frontend:</b> Desarrollo de interfaces web con <b>React, TypeScript, Vite y Tailwind CSS</b>.</li>
-        <li><b>Servidores:</b> Administración de servidores y entornos virtualizados <b>Linux</b>, incluyendo configuración y gestión de <b>Nginx</b> y certificados <b>SSL/TLS</b>.</li>
-        <li><b>Plataformas institucionales:</b> Implementación, configuración y personalización de <b>Koha y DSpace</b>, además de pruebas funcionales y resolución de problemas de despliegue.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center">
-      <p><b>Práctica profesional</b></p>
     </td>
   </tr>
 </table>
