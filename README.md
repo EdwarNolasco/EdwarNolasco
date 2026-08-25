@@ -46,6 +46,26 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
 <table>
   <tr>
     <td width="65%">
+      <h3>API de Gestión para Pulpería Wendy</h3>
+      <p>API REST para gestionar usuarios, productos, compras, ventas, clientes, proveedores y caja. ALgunos de mis aportes incluyeron el registro y recuperación de cuentas por correo, la lógica de compras y ventas con sus validaciones, la gestión de imágenes y archivos, y la configuración de rutas para logos, banners y documentación Swagger.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose">
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <p><b>Backend y API REST</b></p>
+      <a href="https://github.com/zzMAZzz/API_Express_PF">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="65%">
       <h3>Observatorio Tecnológico - Backend API</h3>
       <p>API REST para un observatorio tecnológico regional. Permite gestionar y analizar empresas, productos y servicios, eventos sectoriales, indicadores económicos y tendencias tecnológicas de Centroamérica.</p>
       <p>
@@ -65,16 +85,19 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
   </tr>
   <tr>
     <td width="65%">
-      <h3>Lista de tareas</h3>
-      <p>Aplicación móvil para organizar tareas de forma simple y rápida. Permite crear, editar, completar y eliminar tareas desde una interfaz clara.</p>
+      <h3>Gestor de Prácticas Profesionales</h3>
+      <p>Aplicación web académica para administrar el proceso de prácticas profesionales. Permite gestionar estudiantes, carreras, empresas, supervisores, solicitudes, períodos, horarios, asistencias e historial de prácticas, facilitando el seguimiento y control de cada experiencia profesional.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Web API">
+        <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework">
+        <img src="https://img.shields.io/badge/DevExtreme-FF6F00?style=flat-square&logo=devexpress&logoColor=white" alt="DevExtreme">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
       </p>
     </td>
     <td width="35%" align="center">
-      <p><b>Aplicación móvil</b></p>
-      <a href="https://github.com/EdwarNolasco/ProyectoFlutter">
+      <p><b>Sistema académico</b></p>
+      <a href="https://github.com/EdwarNolasco/Proyecto_entrega3">
         <img src="https://img.shields.io/badge/Ver%20repositorio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
       </a>
     </td>
@@ -93,6 +116,41 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
     <td width="35%" align="center">
       <p><b>Aplicacion web educativa</b></p>
       <a href="https://github.com/EdwarNolasco/ChatbotEducativo">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="65%">
+      <h3>Administrador Prácticas y Graduaciones</h3>
+      <p>Sistema de gestión para solicitudes de prácticas, graduación y documentación académica. El proyecto conecta a estudiantes, coordinación y secretaría mediante formularios, roles, validaciones por carrera, estados de aprobación y seguimiento del proceso.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white" alt="XML">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS">
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <p><b>ERP académico</b></p>
+      <a href="https://github.com/Carlos20040301/AdminPracticas">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="65%">
+      <h3>Lista de tareas</h3>
+      <p>Aplicación móvil para organizar tareas de forma simple y rápida. Permite crear, editar, completar y eliminar tareas desde una interfaz clara.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <p><b>Aplicación móvil</b></p>
+      <a href="https://github.com/EdwarNolasco/ProyectoFlutter">
         <img src="https://img.shields.io/badge/Ver%20repositorio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
       </a>
     </td>
