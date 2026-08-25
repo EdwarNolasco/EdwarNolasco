@@ -155,6 +155,21 @@ Egresado de Ingeniería en Sistemas con experiencia en desarrollo de software, b
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="65%">
+      <h3>Práctica Profesional - Desarrollo y administración de sistemas institucionales</h3>
+      <ul>
+        <li><b>Bases de datos:</b> Diseño y optimización de bases de datos relacionales, garantizando integridad, rendimiento y escalabilidad.</li>
+        <li><b>Backend y APIs:</b> Desarrollo y refactorización de aplicaciones backend y APIs RESTful con <b>PHP y Laravel</b>, implementando lógica de negocio, autenticación y autorización.</li>
+        <li><b>Frontend:</b> Desarrollo de interfaces web con <b>React, TypeScript, Vite y Tailwind CSS</b>.</li>
+        <li><b>Servidores:</b> Administración de servidores y entornos virtualizados <b>Linux</b>, incluyendo configuración y gestión de <b>Nginx</b> y certificados <b>SSL/TLS</b>.</li>
+        <li><b>Plataformas institucionales:</b> Implementación, configuración y personalización de <b>Koha y DSpace</b>, además de pruebas funcionales y resolución de problemas de despliegue.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <p><b>Práctica profesional</b></p>
+    </td>
+  </tr>
 </table>
 
 
